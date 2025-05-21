@@ -26,3 +26,10 @@
 - [EX03_05_台灣股票市場個股每日成交資訊](EX03_05_台灣股票市場個股每日成交資訊.ipynb)
 - [EX03_06_出生人口數](EX03_06_出生人口數.ipynb)
 - [EX03_07_Tips.](EX03_07_Tips.ipynb)
+## 04 Machine Learning
+- [EX04_01_汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
+## 05 Web API
+- [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
+- [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
+- [EX05_03_Reply_Multi_type_Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX05_04_Reply_Template_Messages](EX05_04_Reply_Template_Messages.ipynb)
