@@ -29,7 +29,7 @@
 ## 04 Machine Learning
 - [EX04_01_汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
 ## 05 Web API
-- [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
+- [EX05_01_Echo_Bot](EX05_01_Echo_Bot.ipynb)
 - [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
 - [EX05_03_Reply_Multi_type_Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
 - [EX05_04_Reply_Template_Messages](EX05_04_Reply_Template_Messages.ipynb)
