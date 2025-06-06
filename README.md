@@ -28,6 +28,11 @@
 - [EX03_07_Tips.](EX03_07_Tips.ipynb)
 ## 04 Machine Learning
 - [EX04_01_汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
+- [EX04_02_客戶基本資料編碼](EX04_02_客戶基本資料編碼.ipynb)
+- [EX04_03_客戶分群](EX04_03_客戶分群.ipynb)
+- [EX04_04_加州房價](EX04_04_加州房價.ipynb)
+- [EX04_05_辨識鳶尾花](EX04_05_辨識鳶尾花.ipynb)
+- [EX04_06_ET_Today_新聞標題分類](EX04_06_ET_Today_新聞標題分類.ipynb)
 ## 05 Web API
 - [EX05_01_Echo_Bot](EX05_01_Echo_Bot.ipynb)
 - [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
