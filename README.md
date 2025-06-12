@@ -38,3 +38,8 @@
 - [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
 - [EX05_03_Reply_Multi_type_Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
 - [EX05_04_Reply_Template_Messages](EX05_04_Reply_Template_Messages.ipynb)
+## Homework
+- [HW 1/2](HW_1_2.ipynb)
+- [HW 2/2](HW2_2.ipynb)
+## Report
+- [Final Report](程式FR.ipynb)
